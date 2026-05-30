@@ -179,19 +179,15 @@ print(me.motto())
 ## 🚀 Featured Projects
 
 <div align="center">
+## 🚀 Featured Projects
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| 🤖 **[Edge AI on Zephyr RTOS](https://github.com/HariharanB)** | ESP32-S3 · Zephyr RTOS · TinyML · Edge Impulse | Deployed TinyML models for real-time on-device inference; achieved **sub-100ms latency** with zero cloud dependency |
-| 🛸 **[Campus X Rover](https://github.com/HariharanB)** | ESP32 · GPS · Python · Computer Vision | Autonomous rover with GPS navigation & real-time surveillance; **IIT Bombay Grand Finalist** + **2nd Prize Nationally** at Karpagam Institute |
-| 🦾 **[Wrist Hand Orthosis](https://github.com/HariharanB)** | ESP32 · Servo Motors · Voice Control · Mobile App | Led 6-member team; rehabilitation wearable recognized at **3 national events** including NSCIF Delhi & CMR Bangalore (Top 20 All India) |
-| 🌿 **[Green-Leaf Disease Detection](https://github.com/HariharanB)** | Edge Impulse · TinyML · Image Processing | AI-powered plant disease classifier deployed on **edge hardware** for real-time agricultural diagnostics |
-| 🅿️ **[Smart Parking System](https://github.com/HariharanB)** | ESP32 · IR Sensors · Firebase · Mobile App | Real-time IoT parking management; built at **SRM Institute Hackathon**, Chennai |
-| 🧭 **[Autonomous GPS Rover](https://github.com/HariharanB)** | ESP32 · GPS · Sensor Fusion | Sensor-fused rover with GPS waypoint navigation and dynamic path tracking via embedded systems |
-| 🔥 **[Firefighter Bot](https://github.com/HariharanB)** | Arduino · Flame Sensors · Motor Control | Autonomous fire-detection & extinguishing robot with real-time hazard response and sensor-driven navigation |
-| 🐾 **[Quadbot](https://github.com/HariharanB)** | ESP32 · Inverse Kinematics · Motor Control | Four-legged robotic platform with stable locomotion using embedded motor control and inverse kinematics |
-| ⚽ **[Line Follower & Soccer Bot](https://github.com/HariharanB)** | Arduino · IR Sensors · PID Control | Autonomous robots for line-following and competitive robotic soccer; showcased at **IIT Roorkee Cogni** |
-
+| **[Campus X Rover](https://github.com/hariharan07-uv/Campus-X-Rover---Smart-Detection-Dashboard)** | ESP32 · TFT · I2C · Arduino · HTML | 🏆 IIT Bombay Grand Finalist 2025 |
+| **[Quadbot](https://github.com/hariharan07-uv/Quadbot-Quadrobot)** | ESP32 · PWM · PCA9685 · Arduino | Autonomous quadruped locomotion |
+| **[Line Follower](https://github.com/hariharan07-uv/Line-Follower)** | ESP32 · PID · C · Arduino | IIT Roorkee Cogni 2026 |
+| **[Smart Parking System](https://github.com/hariharan07-uv/Smart-Parking-System-APP)** | ESP32 · Firebase · YOLOv8 · JS | SRM Institute Hackathon |
+| **[Wrist Hand Orthosis](https://github.com/hariharan07-uv/switch-controlled-Wrist-hand-Orthosis)** | ESP32 · Servo · Voice Control · C | SIH · NSCIF Delhi · CMR Bangalore Top 20 |
 </div>
 
 ---
