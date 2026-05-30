@@ -154,7 +154,7 @@ print(me.motto())
 | 🏆 | Achievement | Details |
 |----|-------------|---------|
 | 🥇 | **Grand Finalist — Safetronics** | IIT Bombay · Dec 2025 · Presented Campus X Rover for safety, surveillance & intelligent campus mobility |
-| 🥈 | **2nd Prize — Safetronics Autonomous Rover** | Karpagam Institute of Technology, Coimbatore · Feb 2026 · National level recognition |
+| 🥈 | **2nd Prize — Campus X Autonomous Rover** | Karpagam Institute of Technology, Coimbatore · Feb 2026 · National level recognition |
 | 🏅 | **Top 20 All India — Hand Mobility Support Using ML** | CMR Institute of Technology, Bangalore · Oct 2025 · Among top 20 teams nationally |
 | 🥈 | **2nd Prize — Floor Cleaning Rover Competition** | SONA College of Technology, Salem · Feb 2025 |
 | 💡 | **Top Ideas — NSCIF Hackathon** | CMPI, Delhi · Mar 2026 · Led 6-member team; recognised for assistive healthcare innovation |
