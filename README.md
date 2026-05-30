@@ -238,7 +238,7 @@ print(me.motto())
 ```
 🔩 Zephyr RTOS Internals  →  Kernel subsystems, device drivers, DTS, West manifests
 🐧 Embedded Linux (Kali & Ubuntu) →  Linux Kernel
-🤖 RTOS                   →  Nodes, topics, transforms, Nav2 stack
+🤖 RTOS                   →  Nodes, zephy RTOS.
 🧠 Advanced TinyML        →  Model quantisation, pruning, deployment on Cortex-M
 🔒 Embedded Security      →  Secure boot,firmware signing
 ```
