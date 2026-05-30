@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariharan%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20AI%20%7C%20Edge%20Intelligence%20%7C%20Robotics%20Engineer&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariharan%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20System%20Developer%20%7C%20Linux%20Developer%20%&descAlignY=62&descSize=16"/>
 
 <div align="center">
 
@@ -31,13 +31,13 @@ class HariharanB:
         self.currently_learning = [
             "Advanced Zephyr RTOS Internals",
             "RISC-V Embedded Targets",
-            "Embedded Linux (Yocto)",
+            "Embedded Linux (Kali & Ubuntu)",
             "ROS2 for Robotics",
         ]
-        self.fun_fact        = "I shipped a tactile learning book for differently-abled users — solo."
+        self.fun_fact        = "I shipped a tactile learning book for differently-abled users."
         self.roles           = [
             "Lead Embedded Software Developer @ NEXYUGA Innovations",
-            "Project Advisor — Embedded AI @ FlockGuard",
+            "Project Advisor — Embedded  @ FlockGuard",
         ]
 
     def motto(self):
@@ -237,11 +237,10 @@ print(me.motto())
 
 ```
 🔩 Zephyr RTOS Internals  →  Kernel subsystems, device drivers, DTS, West manifests
-🐧 Embedded Linux (Yocto) →  Custom BSP, BitBake recipes, meta-layers
-🤖 ROS2                   →  Nodes, topics, transforms, Nav2 stack
-⚡ RISC-V                 →  Open-source ISA, bare-metal toolchains, RISC-V SoCs
+🐧 Embedded Linux (Kali & Ubuntu) →  Linux Kernel
+🤖 RTOS                   →  Nodes, topics, transforms, Nav2 stack
 🧠 Advanced TinyML        →  Model quantisation, pruning, deployment on Cortex-M
-🔒 Embedded Security      →  Secure boot, TrustZone, firmware signing
+🔒 Embedded Security      →  Secure boot,firmware signing
 ```
 
 ---
