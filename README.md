@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Hariharan+B+%F0%9F%91%8B;Embedded+Systems+%7C+Edge+AI+%7C+Robotics;TinyML+on+Zephyr+RTOS+%7C+ESP32+Dev;IIT+Bombay+%26+IIT+Roorkee+Finalist+%F0%9F%8F%86)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=HariharanB&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/hariharan07-uv)
-[![GitHub followers](https://img.shields.io/github/followers/HariharanB?style=flat-square&color=70a5fd&labelColor=0d1117)](https://github.com/hariharan07-uv?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=hariharan07-uv&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/hariharan07-uv)
+[![GitHub followers](https://img.shields.io/github/followers/hariharan07-uv?style=flat-square&color=70a5fd&labelColor=0d1117)](https://github.com/hariharan07-uv?tab=followers)
 
 </div>
 
