@@ -121,7 +121,7 @@ print(me.motto())
 </details>
 
 <details>
-<summary>🚀 <strong>FlockGuard</strong> — Project Advisor, Embedded AI & Automation | 2025 – Present | Remote</summary>
+<summary>🚀 <strong>FlockGuard</strong> — Project Advisor, Embedded AI & Automation | 2026 - completed | Remote</summary>
 
 <br/>
 
