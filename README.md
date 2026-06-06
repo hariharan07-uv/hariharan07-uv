@@ -50,89 +50,86 @@ print(me.motto())
 <br clear="right"/>
 
 ---
-
 ## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
-
-<div align="center">
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <b>🖥️ Languages</b><br/><br/>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-    </td>
-    <td align="center" width="200">
-      <b>⚙️ Embedded & RTOS</b><br/><br/>
-      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Zephyr_RTOS-6C3483?style=flat-square&logo=zephyrproject&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FreeRTOS-008080?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
-    </td>
-    <td align="center" width="200">
-      <b>🤖 AI / ML & Edge</b><br/><br/>
-      <img src="https://img.shields.io/badge/Edge_Impulse-0094BD?style=flat-square&logo=edgeimpulse&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TinyML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Edge_AI-00B388?style=flat-square&logo=nvidia&logoColor=white"/>
+    <td><b>🖥️ Languages</b></td>
+    <td>
+      <code>C</code>
+      <code>Python</code>
+      <code>HTML5</code>
+      <code>CSS3</code>
     </td>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <b>☁️ IoT & Cloud</b><br/><br/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Arduino_Cloud-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Blynk-00C400?style=flat-square&logo=blynk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
-    </td>
-    <td align="center" width="200">
-      <b>🔌 Protocols</b><br/><br/>
-      <img src="https://img.shields.io/badge/UART-555555?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SPI-555555?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/I2C-555555?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PWM-555555?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GPIO-555555?style=flat-square&logoColor=white"/>
-    </td>
-    <td align="center" width="200">
-      <b>🖨️ PCB & Hardware</b><br/><br/>
-      <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Sensor_Interfacing-1D9E75?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Circuit_Debugging-1D9E75?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Power_Management-1D9E75?style=flat-square&logoColor=white"/>
+    <td><b>⚙️ Embedded & RTOS</b></td>
+    <td>
+      <code>ESP32</code>
+      <code>Arduino</code>
+      <code>Zephyr RTOS</code>
+      <code>FreeRTOS</code>
+      <code>PlatformIO</code>
+      <code>MATLAB</code>
     </td>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <b>🦾 Robotics</b><br/><br/>
-      <img src="https://img.shields.io/badge/Motor_Control-D85A30?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Autonomous_Nav-D85A30?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Embedded_Control-D85A30?style=flat-square&logoColor=white"/>
+    <td><b>🤖 AI / ML & Edge</b></td>
+    <td>
+      <code>Edge Impulse</code>
+      <code>TinyML</code>
+      <code>Edge AI</code>
     </td>
-    <td align="center" width="200">
-      <b>🔧 Tools & DevOps</b><br/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  </tr>
+  <tr>
+    <td><b>☁️ IoT & Cloud</b></td>
+    <td>
+      <code>Firebase</code>
+      <code>Arduino Cloud</code>
+      <code>Blynk</code>
+      <code>MQTT</code>
     </td>
-    <td align="center" width="200">
-      <b>📚 Certifications</b><br/><br/>
-      <img src="https://img.shields.io/badge/C_Programming-Infosys-0066CC?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Industrial_IoT-NPTEL-orange?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/IoT_Bootcamp-C--DAC-2E9FE6?style=flat-square&logoColor=white"/>
+  </tr>
+  <tr>
+    <td><b>🔌 Protocols</b></td>
+    <td>
+      <code>UART</code>
+      <code>SPI</code>
+      <code>I2C</code>
+      <code>PWM</code>
+      <code>GPIO</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🖨️ PCB & Hardware</b></td>
+    <td>
+      <code>KiCad</code>
+      <code>Arduino IDE</code>
+      <code>Sensor Interfacing</code>
+      <code>Circuit Debugging</code>
+      <code>Power Management</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 Robotics</b></td>
+    <td>
+      <code>Motor Control</code>
+      <code>Autonomous Navigation</code>
+      <code>Embedded Control Systems</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔧 Tools & DevOps</b></td>
+    <td>
+      <code>Git</code>
+      <code>GitHub</code>
+      <code>Linux Kernel</code>
+      <code>VS Code</code>
+      <code>Notion</code>
     </td>
   </tr>
 </table>
-
-</div>
----
+===
 
 ## 💼 Work Experience
 
