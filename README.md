@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariharan%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20System%20Developer%20%7C%20Linux%20Developer%20%&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariharan%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20System%20Developer%20%7C%20Edge%20AI%20%7C%20IoT&descAlignY=62&descSize=16"/>
 
 <div align="center">
 
@@ -37,7 +37,7 @@ class HariharanB:
         self.fun_fact        = "I shipped a tactile learning book for differently-abled users."
         self.roles           = [
             "Lead Embedded Software Developer @ NEXYUGA Innovations",
-            "Project Advisor — Embedded  @ FlockGuard",
+            "Project Advisor — Embedded @ FlockGuard",
         ]
 
     def motto(self):
@@ -53,52 +53,55 @@ print(me.motto())
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**🖥️ Languages**
 
-[![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Embedded Systems & RTOS**
+**⚙️ Embedded Systems & RTOS**
 
-[![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://arduino.cc)
-[![Zephyr RTOS](https://img.shields.io/badge/Zephyr_RTOS-6517B0?style=flat-square&logo=zephyrproject&logoColor=white)](https://zephyrproject.org)
-[![Platform IO](https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white)](https://platformio.org)
-[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)](https://mathworks.com)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Zephyr RTOS](https://img.shields.io/badge/Zephyr_RTOS-6C3483?style=for-the-badge&logo=zephyrproject&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-008080?style=for-the-badge&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-**AI / ML & Edge Intelligence**
+**🤖 AI / ML & Edge Intelligence**
 
-[![Edge Impulse](https://img.shields.io/badge/Edge_Impulse-00BCD4?style=flat-square&logo=edgeimpulse&logoColor=white)](https://edgeimpulse.com)
-[![TinyML](https://img.shields.io/badge/TinyML-BF91F3?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tinyml.org/)
-[![Edge AI](https://img.shields.io/badge/Edge_AI-38BDAE?style=flat-square&logo=nvidia&logoColor=white)](https://developer.nvidia.com/embedded-computing)
+![Edge Impulse](https://img.shields.io/badge/Edge_Impulse-0094BD?style=for-the-badge&logo=edgeimpulse&logoColor=white)
+![TinyML](https://img.shields.io/badge/TinyML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Edge AI](https://img.shields.io/badge/Edge_AI-00B388?style=for-the-badge&logo=nvidia&logoColor=white)
 
-**IoT & Cloud Platforms**
+**☁️ IoT & Cloud Platforms**
 
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Arduino Cloud](https://img.shields.io/badge/Arduino_Cloud-00979D?style=flat-square&logo=arduino&logoColor=white)](https://cloud.arduino.cc)
-[![Blynk](https://img.shields.io/badge/Blynk-23C48E?style=flat-square&logo=blynk&logoColor=white)](https://blynk.io)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Arduino Cloud](https://img.shields.io/badge/Arduino_Cloud-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Blynk](https://img.shields.io/badge/Blynk-00C400?style=for-the-badge&logo=blynk&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
-**PCB & Hardware Design**
+**🔌 Protocols**
 
-[![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)](https://kicad.org)
-[![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)](https://arduino.cc)
+![UART](https://img.shields.io/badge/UART-555555?style=for-the-badge&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-555555?style=for-the-badge&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-555555?style=for-the-badge&logoColor=white)
+![PWM](https://img.shields.io/badge/PWM-555555?style=for-the-badge&logoColor=white)
+![GPIO](https://img.shields.io/badge/GPIO-555555?style=for-the-badge&logoColor=white)
 
-**Protocols**
+**🖨️ PCB & Hardware Design**
 
-![UART](https://img.shields.io/badge/UART-70A5FD?style=flat-square&logoColor=white)
-![SPI](https://img.shields.io/badge/SPI-BF91F3?style=flat-square&logoColor=white)
-![I2C](https://img.shields.io/badge/I2C-38BDAE?style=flat-square&logoColor=white)
-![PWM](https://img.shields.io/badge/PWM-FF7F50?style=flat-square&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-**Tools & DevOps**
+**🔧 Tools & DevOps**
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
-[![Linux](https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://notion.so)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
@@ -134,7 +137,6 @@ print(me.motto())
 ## 🚀 Featured Projects
 
 <div align="center">
-## 🚀 Featured Projects
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
@@ -143,6 +145,7 @@ print(me.motto())
 | **[Line Follower](https://github.com/hariharan07-uv/Line-Follower)** | ESP32 · PID · C · Arduino | IIT Roorkee Cogni 2026 |
 | **[Smart Parking System](https://github.com/hariharan07-uv/Smart-Parking-System-APP)** | ESP32 · Firebase · YOLOv8 · JS | SRM Institute Hackathon |
 | **[Wrist Hand Orthosis](https://github.com/hariharan07-uv/switch-controlled-Wrist-hand-Orthosis)** | ESP32 · Servo · Voice Control · C | SIH · NSCIF Delhi · CMR Bangalore Top 20 |
+
 </div>
 
 ---
@@ -187,11 +190,11 @@ print(me.motto())
 ## 🧠 Currently Learning
 
 ```
-🔩 Zephyr RTOS Internals  →  Kernel subsystems, device drivers, DTS, West manifests
-🐧 Embedded Linux (Kali & Ubuntu) →  Linux Kernel
-🤖 RTOS                   →  Nodes, zephy RTOS.
-🧠 Advanced TinyML        →  Model quantisation, pruning, deployment on Cortex-M
-🔒 Embedded Security      →  Secure boot,firmware signing
+🔩 Zephyr RTOS Internals       →  Kernel subsystems, device drivers, DTS, West manifests
+🐧 Embedded Linux (Kali & Ubuntu) →  Linux Kernel build, cross-compilation, rootfs
+🤖 FreeRTOS                    →  Task scheduling, queues, semaphores on ESP32
+🧠 Advanced TinyML             →  Model quantisation, pruning, deployment on Cortex-M
+🔒 Embedded Security           →  Secure boot, firmware signing, TrustZone basics
 ```
 
 ---
@@ -200,11 +203,11 @@ print(me.motto())
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-haribala785%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:haribala785@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hariharan_B-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/HariharanB)
-[![GitHub](https://img.shields.io/badge/GitHub-HariharanB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HariharanB)
-[![Location](https://img.shields.io/badge/📍-Namakkal%2C_Tamil_Nadu-38BDAE?style=flat-square)](https://maps.google.com/?q=Namakkal,Tamil+Nadu)
-[![Phone](https://img.shields.io/badge/📞-%2B91--9344646884-70A5FD?style=flat-square)](tel:+919344646884)
+[![Email](https://img.shields.io/badge/Email-haribala785%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haribala785@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hariharan_B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hariharan-balakrishnan-401a66329)
+[![GitHub](https://img.shields.io/badge/GitHub-hariharan07--uv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hariharan07-uv)
+[![Hackster.io](https://img.shields.io/badge/Hackster.io-haribala785-2E9FE6?style=for-the-badge&logo=hackster&logoColor=white)](https://www.hackster.io/haribala785)
+[![Location](https://img.shields.io/badge/📍_Namakkal,_Tamil_Nadu-India-38BDAE?style=for-the-badge)](https://maps.google.com/?q=Namakkal,Tamil+Nadu)
 
 </div>
 
