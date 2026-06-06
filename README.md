@@ -52,58 +52,85 @@ print(me.motto())
 ---
 
 ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**🖥️ Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**⚙️ Embedded Systems & RTOS**
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Zephyr RTOS](https://img.shields.io/badge/Zephyr_RTOS-6C3483?style=for-the-badge&logo=zephyrproject&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-008080?style=for-the-badge&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-**🤖 AI / ML & Edge Intelligence**
-
-![Edge Impulse](https://img.shields.io/badge/Edge_Impulse-0094BD?style=for-the-badge&logo=edgeimpulse&logoColor=white)
-![TinyML](https://img.shields.io/badge/TinyML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Edge AI](https://img.shields.io/badge/Edge_AI-00B388?style=for-the-badge&logo=nvidia&logoColor=white)
-
-**☁️ IoT & Cloud Platforms**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Arduino Cloud](https://img.shields.io/badge/Arduino_Cloud-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Blynk](https://img.shields.io/badge/Blynk-00C400?style=for-the-badge&logo=blynk&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-
-**🔌 Protocols**
-
-![UART](https://img.shields.io/badge/UART-555555?style=for-the-badge&logoColor=white)
-![SPI](https://img.shields.io/badge/SPI-555555?style=for-the-badge&logoColor=white)
-![I2C](https://img.shields.io/badge/I2C-555555?style=for-the-badge&logoColor=white)
-![PWM](https://img.shields.io/badge/PWM-555555?style=for-the-badge&logoColor=white)
-![GPIO](https://img.shields.io/badge/GPIO-555555?style=for-the-badge&logoColor=white)
-
-**🖨️ PCB & Hardware Design**
-
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-**🔧 Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
----
+<table>
+  <tr>
+    <td><b>🖥️ Languages</b></td>
+    <td>
+      <code>C</code>
+      <code>Python</code>
+      <code>HTML5</code>
+      <code>CSS3</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Embedded & RTOS</b></td>
+    <td>
+      <code>ESP32</code>
+      <code>Arduino</code>
+      <code>Zephyr RTOS</code>
+      <code>FreeRTOS</code>
+      <code>PlatformIO</code>
+      <code>MATLAB</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 AI / ML & Edge</b></td>
+    <td>
+      <code>Edge Impulse</code>
+      <code>TinyML</code>
+      <code>Edge AI</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>☁️ IoT & Cloud</b></td>
+    <td>
+      <code>Firebase</code>
+      <code>Arduino Cloud</code>
+      <code>Blynk</code>
+      <code>MQTT</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔌 Protocols</b></td>
+    <td>
+      <code>UART</code>
+      <code>SPI</code>
+      <code>I2C</code>
+      <code>PWM</code>
+      <code>GPIO</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🖨️ PCB & Hardware</b></td>
+    <td>
+      <code>KiCad</code>
+      <code>Arduino IDE</code>
+      <code>Sensor Interfacing</code>
+      <code>Circuit Debugging</code>
+      <code>Power Management</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 Robotics</b></td>
+    <td>
+      <code>Motor Control</code>
+      <code>Autonomous Navigation</code>
+      <code>Embedded Control Systems</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔧 Tools & DevOps</b></td>
+    <td>
+      <code>Git</code>
+      <code>GitHub</code>
+      <code>Linux Kernel</code>
+      <code>VS Code</code>
+      <code>Notion</code>
+    </td>
+  </tr>
+</table>---
 
 ## 💼 Work Experience
 
