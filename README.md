@@ -52,7 +52,6 @@ print(me.motto())
 ---
 
 ## 🛠️ Tech Stack
-## 🛠️ Tech Stack
 
 <table>
   <tr>
