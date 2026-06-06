@@ -129,7 +129,8 @@ print(me.motto())
     </td>
   </tr>
 </table>
-===
+
+---
 
 ## 💼 Work Experience
 
